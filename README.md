@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Sou Luiz Bonfim, natural de Campina Grande, Paraíba. Sou Mestre em Engenharia Mecânica pela Universidade Federal da Paraba, e atualmente estou em transição de carreira, cursando Ciências da Computação na Universidade Federal de Campina Grande (UFCG). Atualmente estou realizando um curso de Desenvolvimento Web, aprendendo frameworks Front-End, mais especificamente ReactJs e VueJs, bem como a parte de Back-end, com NodeJs.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-bonfim-030297151/)](https://www.linkedin.com/in/luiz-bonfim-030297151/)
+
+
 <!--
 **luizcnn/luizcnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
