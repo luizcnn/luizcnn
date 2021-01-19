@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Sou Luiz Bonfim, natural de Campina Grande, Paraíba. Sou Mestre em Engenharia Mecânica pela Universidade Federal da Paraíba, e atualmente estou em transição de carreira, cursando Ciências da Computação na Universidade Federal de Campina Grande (UFCG). Atualmente estou realizando um curso de Desenvolvimento Web, aprendendo frameworks Front-End, mais especificamente ReactJs e VueJs, bem como a parte de Back-end, com NodeJs.
+Sou Luiz Bonfim, natural de Campina Grande, Paraíba. Sou Mestre em Engenharia Mecânica pela Universidade Federal da Paraíba, e atualmente estou em transição de carreira, cursando Ciências da Computação na Universidade Federal de Campina Grande (UFCG).
+
+Desenvolvendo com: JavaScript, TypeScript, NodeJS, ExpressJs, Restify, Java, Kotlin, Spring Framework/Boot/JPA, Hibernate, ReactJS, React Native, VueJS, MySQL, PostgreSQL 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-bonfim-030297151/)](https://www.linkedin.com/in/luiz-bonfim-030297151/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/luizcnn/)](https://www.instagram.com/luizcnn/)
